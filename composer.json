@@ -1,0 +1,30 @@
+{
+    "name": "phwoolcon/js-polyfills",
+    "type": "library",
+    "description": "Javascript polyfills for Phwoolcon",
+    "keywords": [
+        "phwoolcon",
+        "js-polyfills"
+    ],
+    "homepage": "https://github.com/phwoolcon/js-polyfills",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Christopher CHEN",
+            "email": "fishdrowned@gmail.com",
+            "homepage": "https://github.com/Fishdrowned",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "~5.5|~7.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}

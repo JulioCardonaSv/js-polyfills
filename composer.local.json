@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phwoolcon/js-polyfills": "~1.0"
+    },
+    "phwoolcon-packages": [
+        {
+            "name": "phwoolcon/js-polyfills",
+            "url": "git@github.com:phwoolcon/js-polyfills.git"
+        }
+    ]
+}
